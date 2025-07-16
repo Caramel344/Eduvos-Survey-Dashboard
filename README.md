@@ -1,5 +1,5 @@
-ITRDA3 - R Programming for Data Science
+Module Nme: ITRDA3 - R Programming for Data Science
 
-To deploy dashboard
+Description: To deploy dashboard
 
-The dashboard is created using R Shiny to analyze a survey data from Eduvos IT graduate
+Technologies used: The dashboard is created using R Shiny to analyze a survey data from Eduvos IT graduate
